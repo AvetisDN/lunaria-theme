@@ -1,5 +1,4 @@
 # Lunaria Dark Theme
-## Screenshots
 
 Dark themes based on LunariaDark palette by Gogh project
 
@@ -7,5 +6,6 @@ Dark themes based on LunariaDark palette by Gogh project
 
 ---
 
+## Screenshots
 ### Lunaria Dark
 ![Lunaria Dark](https://i.imgur.com/dj24BXd.png)
