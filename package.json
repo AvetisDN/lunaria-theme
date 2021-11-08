@@ -8,7 +8,7 @@
         "email": "avetisdn@gmail.com"
     },
     "icon": "icon/lunaria.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nord Aurora",
+                "label": "Lunaria Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/lunaria.json"
             }
