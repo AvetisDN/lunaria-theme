@@ -1,0 +1,21 @@
+{
+    "name": "lunaria",
+    "displayName": "Lunaria",
+    "description": "Lunaria Theme. Based on LunariaDark Gogh palette",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lunaria",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lunaria-color-theme.json"
+            }
+        ]
+    }
+}
