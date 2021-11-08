@@ -1,10 +1,20 @@
 {
     "name": "lunaria",
-    "displayName": "Lunaria",
-    "description": "Lunaria Theme. Based on LunariaDark Gogh palette",
+    "displayName": "Lunaria Dark",
+    "description": "Dark themes based on LunariaDark palette",
+    "publisher": "Avetis",
+    "author": {
+        "name": "AvetisDN",
+        "email": "avetisdn@gmail.com"
+    },
+    "icon": "icon/lunaria.png",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.62.0"
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/lunaria-theme"
     },
     "categories": [
         "Themes"
@@ -12,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lunaria",
+                "label": "Nord Aurora",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Lunaria-color-theme.json"
+                "path": "./themes/lunaria.json"
             }
         ]
     }
